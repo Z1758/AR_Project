@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 136943344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efa881f1c95ce691d2b8043b2e71dc95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efa881f1c95ce691d2b8043b2e71dc95
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AnimationTexture/lb_blueJay.bytes
+Dependencies: []
